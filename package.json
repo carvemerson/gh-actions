@@ -1,0 +1,13 @@
+{
+  "name": "gh-actions",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "lint": "echo \"run lint\"",
+    "test": "echo \"run test\""
+    "build": "echo \"build\""
+  },
+  "author": "",
+  "license": "ISC"
+}
